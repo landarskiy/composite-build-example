@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Composite Build Example"
 include ':app'
+include ':core'
+include ':core:ui'
